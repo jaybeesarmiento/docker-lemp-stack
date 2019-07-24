@@ -1,5 +1,5 @@
 # docker-lemp-stack
-Docker lemp stack
+Basic docker lemp stack.
 
 Change the MYSQL_ROOT_PASSWORD in the *docker-compose.yaml* fi;e
 
